@@ -1,2 +1,2 @@
-# IS_with_ignite
+# IS_torchmetrics
 Inception Score with torchmetrics for GAN metrics
